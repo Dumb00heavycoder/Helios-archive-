@@ -1,0 +1,9 @@
+Serial Number,Planet Name,Number of Moons,Distance from Sun (AU),Orbital Period (years),Rotation Period (days),Shape (oblateness),Surface Gravity (m/s²),Escape Velocity (km/s)
+1,Mercury,0,0.39,0.24,58.65,0.0,3.7,4.3
+2,Venus,0,0.72,0.62,-243.02,0.0,8.9,10.4
+3,Earth,1,1.0,1.0,1.0,0.003,9.8,11.2
+4,Mars,2,1.52,1.88,1.03,0.006,3.7,5.0
+5,Jupiter,95,5.2,11.86,0.41,0.065,23.1,59.5
+6,Saturn,274,9.57,29.42,0.45,0.098,9.0,35.5
+7,Uranus,28,19.17,83.75,-0.72,0.023,8.7,21.3
+8,Neptune,16,30.19,163.72,0.67,0.017,11.0,23.5
